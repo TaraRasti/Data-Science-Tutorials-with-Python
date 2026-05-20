@@ -136,11 +136,7 @@ If you find this repository helpful:
 
 ---
 
-# License
 
-This project is licensed under the MIT License.
-
----
 
 # Connect With Me
 
