@@ -140,9 +140,10 @@ If you find this repository helpful:
 
 # Connect With Me
 
-- GitHub
-- LinkedIn
-- Medium
+- [LinkedIn](https://www.linkedin.com/in/tararasti)
+- [GitHub](https://github.com/tararasti)
+- [Medium](https://medium.com/@tararasti)
+- [Email](tararasti@gmail.com)
 
 ---
 
